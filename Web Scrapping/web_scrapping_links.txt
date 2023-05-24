@@ -1,0 +1,21 @@
+HEADERS = ({'User-Agent':
+'Mozilla/5.0 (Windows NT 10.0; Win64; x64) \
+AppleWebKit/537.36 (KHTML, like Gecko) \
+Chrome/90.0.4430.212 Safari/537.36',
+'Accept-Language': 'en-US, en;q=0.5'})
+
+
+site_url="https://www.flipkart.com/akr-rocklight-touch-on-off-switch-led-night-
+table-light-reading-lamp-long-arm-3-shades-control-study-60-cm-white/p/itm279a
+8f5633369?pid=TLPFNNHH2N6D5SYY&lid=LSTTLPFNNHH2N6D5SYYCWFPJQ&marketplace=FLIPK
+ART&fm=personalisedRecommendation%2Fp2p-same-replenishment&iid=R%3Asr%3Bp%3ATL
+PFXYSA4Z9YH68B%3Bpt%3Ahp%3Buid%3Aa375daf3-
+fa54-11ed-88a0-650838fbae99%3B.TLPFNNHH2N6D5SYY&ppt=hp&ppn=
+homepage&ssid=qp193x0y800000001684947701746&otracker=hp_reco_Suggested%2Bfor%2
+BYou_2_19.productCard.PMU_V2_AKR%2BRocklight%2BTouch%2BOn%252FOff%2BSwitch%2BL
+ED%2BNight%2BTable%2BLight%252CReading%2BLamp%2BLong%2BArm%2Bwith%2B3%2BShades%
+2BTouch%2BControl%2BStudy%2BLamp%2B%252860%2Bcm%252C%2BWhite%2529%2BStudy%2B
+Lamp_TLPFNNHH2N6D5SYY_personalisedRecommendation%2Fp2p-same-replenishment_1&
+otracker1=hp_reco_WHITELISTED_personalisedRecommendation%2Fp2p-same-replenishme
+nt_Suggested%2Bfor%2BYou_DESKTOP_HORIZONTAL_productCard_cc_2_NA_view-all&cid=
+TLPFNNHH2N6D5SYY"
